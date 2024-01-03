@@ -1,6 +1,8 @@
 # SuikaLike by WebGL
 Unityを独習してスイカ風ゲームを作成しています。
 
+[WebGL版のリリース](https://from20150817.github.io/SuikaLike/)
+
 ## 操作方法
 *左右移動 : マウス
 
